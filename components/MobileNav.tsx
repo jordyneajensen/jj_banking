@@ -1,6 +1,6 @@
 import React from 'react'
 
-const MobileNav = () => {
+const MobileNav = ({ user }: MobileNavProps) => {
   return (
     <div>MobileNav</div>
   )
