@@ -86,15 +86,22 @@ const AuthForm = ({ type }: { type: string }) => {
                         <CustomInputs control={form.control} name='email' label='Email' placeholder='Enter your email' />
                         <CustomInputs control={form.control} name='password' label='password' placeholder='Enter your password' />
                         
-                        <Button type="submit" disabled={isLoading} className='form-btn'>
-                            {isLoading ? (<><Loader2 size={20} className='animate0spin'/> &nbsp; Loading...
-                            </>) : type === 'sign-in' ? 'sign-in' : 'Sign Up'}
-                        </Button>
+                        <div className='flex flex-col gap-4'>
+                            <Button type="submit" disabled={isLoading} className='form-btn'>
+                                {isLoading ? (<><Loader2 size={20} className='animate0spin'/> &nbsp; Loading...
+                                </>) : type === 'sign-in' ? 'sign-in' : 'Sign Up'}
+                            </Button>
+                        </div>
                     </form>
                 </Form>
 
-                <footer className=''>
-
+                <footer className='flex justify-center gap-1'>
+                    <p className='text-14 font-normal text-gray-600'>
+                        {type === 'sign-in' ? "Don't have an account?" : "Already have an account?"}
+                    </p>
+                    <Link href={type === 'sign-in' ? '/sign-up' : '/sign-in'} className='form-link'>
+                        {type === 'sign-in' ? '/Sign-up' : '/Sign-in'}
+                    </Link>
                 </footer>
             </>
         )}
