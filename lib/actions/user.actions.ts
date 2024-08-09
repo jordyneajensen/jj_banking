@@ -8,7 +8,7 @@ import { CountryCode, ProcessorTokenCreateRequest, ProcessorTokenCreateRequestPr
 
 import { plaidClient } from '@/lib/plaid';
 import { revalidatePath } from "next/cache";
-import { addFundingSource, createDwollaCustomer } from "@/lib/dwolla.actions";
+import { addFundingSource, createDwollaCustomer } from "@/lib/actions/dwolla.actions";
 
 const {
   APPWRITE_DATABASE_ID: DATABASE_ID,
