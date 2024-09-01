@@ -1,6 +1,8 @@
+// lib/services/appwriteClient.ts
+
 "use server";
 
-import { Client, Account, Databases, Users } from "node-appwrite";
+import { Client, Account, Databases, Users, Query } from "node-appwrite";
 import { cookies } from "next/headers";
 
 // The createSessionClient function
@@ -10,15 +12,15 @@ export async function createSessionClient() {
     .setProject(process.env.NEXT_PUBLIC_APPWRITE_PROJECT!);
 
   const session = cookies().get("appwrite-session");
-  console.log("Session:", session); // Log the session
+  console.log("Session:", session);
 
   if (!session || !session.value) {
-    console.error("No session found"); // Log an error if the session is missing
+    console.error("No session found");
     throw new Error("No session");
   }
 
   client.setSession(session.value);
-  console.log("Client session set successfully"); // Confirm the session is set
+  console.log("Client session set successfully");
 
   return {
     get account() {
@@ -38,17 +40,40 @@ export async function createAdminClient() {
     endpoint: process.env.NEXT_PUBLIC_APPWRITE_ENDPOINT,
     project: process.env.NEXT_PUBLIC_APPWRITE_PROJECT,
     key: process.env.NEXT_APPWRITE_KEY ? 'Key is set' : 'Key is missing'
-  }); // Log the admin client configuration
+  });
+
+  const databases = new Databases(client);
 
   return {
     get account() {
       return new Account(client);
     },
     get database() {
-      return new Databases(client);
+      return databases;
     },
     get user() {
       return new Users(client);
+    },
+    async getTransactionHistory(accountId: string) {
+      if (!accountId) {
+        throw new Error("Account ID is undefined or null.");
+      }
+
+      try {
+        const response = await databases.listDocuments(
+          'your-database-id', // Replace with your actual database ID
+          'your-collection-id', // Replace with your actual collection ID
+          [
+            Query.equal("$id", accountId)
+          ]
+        );
+
+        return response.documents;
+      } catch (error) {
+        console.error("An error occurred while getting the transaction history:", error);
+        throw error;
+      }
     }
   };
 }
+
