@@ -124,15 +124,18 @@ export const getLoggedInUser = async () => {
 };
 
 // Log out the current user and delete the session cookie
-export const logoutAccount = async () => {
+export const logoutAccount = async (): Promise<boolean> => {
   try {
     const { account } = await createSessionClient();
     cookies().delete('appwrite-session');
     await account.deleteSession('current');
+    return true; // Indicate successful logout
   } catch (error) {
     console.error('Logout error:', error);
+    return false; // Indicate failed logout
   }
 };
+
 
 // Create a Plaid Link token for connecting a bank account
 export const createLinkToken = async (user: { $id: string; firstName: string; lastName: string }) => {

@@ -1,15 +1,20 @@
-import { logoutAccount } from '@/lib/actions/user.actions'
-import Image from 'next/image'
+import { logoutAccount } from '@/lib/actions/user.actions';
+import Image from 'next/image';
 import { useRouter } from 'next/navigation';
-import React from 'react'
+import React from 'react';
 
 const Footer = ({ user, type = 'desktop' }: FooterProps) => {
   const router = useRouter();
-  const handleLogOut = async () => {
-    const loggedOut = await logoutAccount(); 
 
-    if(loggedOut) router.push('/sign-in')
-  }
+  const handleLogOut = async () => {
+    const loggedOut = await logoutAccount();
+
+    if (loggedOut) {
+      router.push('/sign-in');
+    } else {
+      console.error('Logout failed');
+    }
+  };
 
   return (
     <footer className='footer'>
@@ -20,7 +25,7 @@ const Footer = ({ user, type = 'desktop' }: FooterProps) => {
       </div>
 
       <div className={type === 'mobile' ? 'footer_email-mobile' : 'footer_email'}>
-        <h1 className='text-14 tuncate text-gray-700 font-semibold'>
+        <h1 className='text-14 truncate text-gray-700 font-semibold'>
           {user?.firstName}
         </h1>
         <p className='text-14 truncate font-normal text-gray-600'>
@@ -29,10 +34,10 @@ const Footer = ({ user, type = 'desktop' }: FooterProps) => {
       </div>
 
       <div className='footer_image' onClick={handleLogOut}>
-        <Image src='icons/logout.svg' fill alt='jj'/>
+        <Image src='icons/logout.svg' fill alt='Logout' />
       </div>
     </footer>
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;
