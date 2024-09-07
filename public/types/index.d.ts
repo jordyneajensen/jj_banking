@@ -118,6 +118,21 @@ declare type TransferParams = {
   amount: string;
 };
 
+declare type User = {
+  $id: string;
+  firstName: string;
+  // Add other properties as needed
+};
+
+declare type Account = {
+  id: string;
+};
+
+declare type TransferProps = {
+  loggedIn: User | null;
+  accountsData: Account[] | null;
+};
+
 declare type AddFundingSourceParams = {
   dwollaCustomerId: string;
   processorToken: string;
