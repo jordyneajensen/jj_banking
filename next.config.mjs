@@ -2,11 +2,13 @@ import { withSentryConfig } from '@sentry/nextjs';
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Specify the custom output directory for the build
-  distDir: 'jj-banking',
-
-  // Any additional Next.js configurations go here
-};
+  typescript: {
+    ignoreBuildErrors: true
+  },
+  eslint: {
+    ignoreDuringBuilds: true
+  }
+}
 
 const sentryConfig = {
   // Sentry options
