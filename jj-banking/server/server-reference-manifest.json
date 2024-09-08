@@ -1,0 +1,310 @@
+{
+  "node": {
+    "0383bb2ecb84cbbea03da144a36708c9406b3655": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "1d88d0bd7627ba5ee9eb310a3f76939fb0f85350": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "297279efc435c43df3bda4084185c9750fd802a3": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "300fd6da996e29734f3f32b383716545813249df": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "36f3453849dde1304e6ca3498ba7582885eb95f1": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "77e9cebffc8921f5c6e52bfd8d24cec94de8fc91": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "f4fb73368748acd8567269bfb40dd2f1d33bc91f": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "25870252ae346e8dbf01a7ac9b4894fe3822e3f3": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "2704814540ba216e279c4ed77e26f702a3b88d32": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "3f65365efb926c48bb65be9d4c1ba47eab77723b": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "7876deb34fe36df3b632be78d0b92d3a58ad0736": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "597a386b2fd7bc98722ce730f024d0f0e3b87686": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "c4480f21ec2ac8c214b8e71e7d43d608ac3884f3": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "02d3ef95bf022afb962326e92a81eeb955e3199c": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "2f77985fe3975629d5abb8e9270b40025fdbc677": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "4d85087a9baf9f69d3e6fb3e5544bae502fb2eb8": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "4e441b71c69cfb635cd1f1a016a2a23ccdc1309a": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "5df0178c3b939dc1d9ea15d6c2338807a9ada69b": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "7fe556b036ae41919a742f9f1503f442ad4a8951": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "b4c95c9d5a3e047dd5cd085721ad399ce9a9bcb9": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "c70a93df917dbf15c43421a08b644302820e0db5": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "d88279fba24104c8627e567b125fc1987bb8ceb1": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "da90a651cb3c39e4316f9611dddb2896e19e3b82": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "f71f829f391dd1f5603d617cd80d589bc2bb998d": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "f8b31862aef6c8fb0b3db57e1c51627251e2ebe2": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "11c23a9988f0a3c93194faaecfcde0d079e4647c": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "332bfd530e7e098f4f1aa9070e510dbb02204d8b": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "3ea76c1d3bab23effa563ea0b2e41db0cb48db11": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "71fa414fcf628e096e9751a9cb8841bb11c9144c": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "8780f7c4e1aad03a6292835951a8ce7b10a63af8": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "914bfd6dff37f4f9822574451f8f18bda99c53df": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "ab02228e3eb3d5312193617c97b4b136fa3e3409": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "bedc1d65a99bf4feb6658f376bf5c0e27bdd8c7a": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "d7f56f777f3c5bcc25d102ee7c9c7148328dc385": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "f5d98b43f73bdcde1d3db3007496eddd943c828f": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fbank.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_4%22%2C%22getAccounts%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_3%22%2C%22getAccount%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Ftransaction.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22createTransaction%22%2C%22getTransactionsByBankId%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Fappwrite.ts%22%2C%5B%22createAdminClient%22%2C%22createSessionClient%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22getLoggedInUser%22%2C%22%24%24ACTION_5%22%2C%22%24%24ACTION_9%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%2C%22%24%24ACTION_7%22%2C%22%24%24ACTION_6%22%2C%22%24%24ACTION_10%22%2C%22%24%24ACTION_8%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_4%22%5D%5D%2C%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fdwolla.actions.ts%22%2C%5B%22addFundingSource%22%2C%22%24%24ACTION_2%22%2C%22createTransfer%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_0%22%2C%22createOnDemandAuthorization%22%2C%22createDwollaCustomer%22%2C%22%24%24ACTION_3%22%2C%22createFundingSource%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "a353453b230caebc89c8c0f6287eaa7b53075899": {
+      "workers": {
+        "app/(root)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22createLinkToken%22%2C%22exchangePublicToken%22%2C%22logoutAccount%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/page": "action-browser"
+      }
+    },
+    "adca4728bf21b0d44040c1091f8658e92e54af0e": {
+      "workers": {
+        "app/(root)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22createLinkToken%22%2C%22exchangePublicToken%22%2C%22logoutAccount%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/page": "action-browser"
+      }
+    },
+    "cab397f224d7ba710183a101336accfa07c4d9d7": {
+      "workers": {
+        "app/(root)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjordynjensen%2FDocuments%2FGitHub%2Fjj_banking%2Flib%2Factions%2Fuser.actions.ts%22%2C%5B%22createLinkToken%22%2C%22exchangePublicToken%22%2C%22logoutAccount%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "Rnh6YoaS8q5ZkdD5nm3nvdbBEu24YAlEDxZNzHWrOKc="
+}
