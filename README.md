@@ -79,7 +79,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 - React Hook Form
 - Zod
 - Chart.js
-- Zod
 - ShadCN
 - Plaid
 - Dwolla
