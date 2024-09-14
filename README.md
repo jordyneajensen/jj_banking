@@ -1,7 +1,7 @@
 ## Introduction
 Built with Next.js, Horizon is a financial SaaS platform that connects to multiple bank accounts, displays transactions in real-time, allows users to transfer money to other platform users, and manages their finances altogether.
 
-To see the live site go to jj-banking.vercel.app
+To see the live site go to https//:www.jj-banking.vercel.app
 
 ## Features
 👉 Authentication: An ultra-secure SSR authentication with proper validations and authorization
